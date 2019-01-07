@@ -1,6 +1,8 @@
 PyTorch implementation of custom DNC variants
 =============================================
 
+Please see our ICLR 2019 paper on https://openreview.net/forum?id=HyGEM3C9KQ for more details.
+
 Tasks
 -----
 Supported tasks:
